@@ -32,3 +32,19 @@ li:hover {
   transform: scale(1.02);
   transition: all 0.3s ease-in-out;
 }
+
+h2 {
+  font-size: 2rem;
+  color: #8B70FF;
+  margin-top: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.25rem;
+  margin: 10px 0;
+}
