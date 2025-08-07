@@ -25,3 +25,10 @@ li {
   font-size: 1.25rem;
   margin: 10px 0;
 }
+
+li:hover {
+  color: #4b0082;
+  cursor: pointer;
+  transform: scale(1.02);
+  transition: all 0.3s ease-in-out;
+}
